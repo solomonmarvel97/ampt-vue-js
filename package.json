@@ -16,8 +16,8 @@
     "vite": "^4.4.6"
   },
   "ampt": {
-    "org": "",
-    "app": "vue-js"
+    "app": "ampt-vue-js",
+    "org": "solomonmarvel392480"
   },
   "files": [
     "*"
